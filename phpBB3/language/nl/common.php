@@ -43,7 +43,7 @@ $lang = array_merge($lang, array(
 	'TRANSLATION_INFO'	=> '<a href="http://www.phpbb.nl">phpBB.nl Vertaling</a>', // Copyright mag verwijderd worden
 	'DIRECTION'			=> 'ltr',
 	'DATE_FORMAT'		=> '|d M Y|',	// 01 Jan 2007 (with Relative days enabled)
-	'USER_LANG'			=> 'nl-nl',
+	'USER_LANG'			=> 'nl',
 
 	'1_DAY'			=> '1 dag',
 	'1_MONTH'		=> '1 maand',

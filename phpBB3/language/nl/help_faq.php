@@ -135,7 +135,7 @@ $help = array(
 		1 => 'Net zoals bij de berichten kan een poll alleen gewijzigd worden door degene die hem gemaakt heeft, een moderator of beheerder. Om de poll te wijzigen moet je het allereerste bericht van het onderwerp wijzigen (hieraan is de poll gekoppeld). Als er nog geen stemmen zijn uitgebracht kunnen gebruikers de poll verwijderen of iedere poll optie wijzigen. Maar, als er reeds gestemd is kunnen alleen moderators of beheerders hem wijzigen of verwijderen. Dit om te verkomen dat gebruikers een poll maken en deze daarna vervalsen door de opties te wijzigen.'
 	),
 	array(
-		0 => 'Waarom kan ik een bepaalt forum niet openen?',
+		0 => 'Waarom kan ik een bepaald forum niet openen?',
 		1 => 'Sommige forums zijn mogelijk alleen toegankelijk voor bepaalde gebruikers of gebruikersgroepen. Om berichten te zien, lezen, plaatsen, enz. heb je speciale permissies nodig. Deze permissies kun je alleen van moderators of beheerders krijgen, zij zijn dus ook degene die je hierover moet contacteren.'
 	),
 	array(

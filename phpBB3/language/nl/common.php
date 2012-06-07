@@ -191,7 +191,7 @@ $lang = array_merge($lang, array(
 	'FORM_INVALID'			=> 'Het verstuurde formulier is ongeldig. Probeer opnieuw te versturen.',
 	'FORUM'					=> 'Forum',
 	'FORUMS'				=> 'Forums',
-	'FORUMS_MARKED'			=> 'De geselecteerde forums zijn als ’gelezen’ gemarkeerd.',
+	'FORUMS_MARKED'			=> 'De forums zijn als ’gelezen’ gemarkeerd.',
 	'FORUM_CAT'				=> 'Forumcategorie',
 	'FORUM_INDEX'			=> 'Forumoverzicht',
 	'FORUM_LINK'			=> 'Forumlink',
@@ -450,6 +450,7 @@ $lang = array_merge($lang, array(
 	'POST_TIME'				=> 'Berichtdatum',
 	'POST_TOPIC'			=> 'Plaats een nieuw bericht',
 	'POST_UNAPPROVED'		=> 'Dit bericht wacht op goedkeuring',
+	'POWERED_BY'			=> 'Powered by %s',
 	'PREVIEW'				=> 'Voorbeeld',
 	'PREVIOUS'				=> 'Vorige',		// Used in pagination
 	'PREVIOUS_STEP'			=> 'Vorige',
@@ -458,6 +459,8 @@ $lang = array_merge($lang, array(
 	'PRIVATE_MESSAGES'		=> 'Privéberichten',
 	'PRIVATE_MESSAGING'		=> 'Privéberichten',
 	'PROFILE'				=> 'Gebruikerspaneel',
+	'RANK'					=> 'Rang',
+
 
 	'READING_FORUM'				=> 'Onderwerpen tonen uit %s',
 	'READING_GLOBAL_ANNOUNCE'	=> 'Globale mededeling lezen',

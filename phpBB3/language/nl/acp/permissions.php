@@ -171,7 +171,7 @@ $lang = array_merge($lang, array(
 	'ROLE_FORUM_POLLS'			=> 'Standaard toegang + polls',
 	'ROLE_FORUM_READONLY'		=> 'Alleen-lezen toegang',
 	'ROLE_FORUM_STANDARD'		=> 'Standaard toegang',
-	'ROLE_FORUM_NEW_MEMBER'		=> 'Nieuw geregistreerde gebruiker',
+	'ROLE_FORUM_NEW_MEMBER'		=> 'Nieuw geregistreerde gebruiker toegang',
 	'ROLE_MOD_FULL'				=> 'Volledige moderator',
 	'ROLE_MOD_QUEUE'			=> 'Wachtrij moderator',
 	'ROLE_MOD_SIMPLE'			=> 'Eenvoudige moderator',
@@ -181,7 +181,7 @@ $lang = array_merge($lang, array(
 	'ROLE_USER_NOAVATAR'		=> 'Geen avatar',
 	'ROLE_USER_NOPM'			=> 'Geen privéberichten',
 	'ROLE_USER_STANDARD'		=> 'Standaard mogelijkheden',
-	'ROLE_USER_NEW_MEMBER'		=> 'Nieuw geregistreerde gebruiker',
+	'ROLE_USER_NEW_MEMBER'		=> 'Nieuw geregistreerde gebruiker mogelijkheden',
 
 
 	'ROLE_DESCRIPTION_ADMIN_FORUM'			=> 'Heeft toegang tot het forumbeheer en forumpermissie-instellingen.',

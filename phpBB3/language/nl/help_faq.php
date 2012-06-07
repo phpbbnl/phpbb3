@@ -333,7 +333,7 @@ $help = array(
 	),
 	array(
 		0 => 'Waarom is de optie X niet beschikbaar?',
-		1 => 'Deze software is geschreven door en eigendom van de phpBB Groep. Als je denkt dat een bepaalde optie toegevoegd moet worden, bezoek dan de phpbb.com website en kijk wat de phpBB Groep hierop antwoord. Plaats je verzoeken alstublieft niet in het phpBB.com forum, de phpBB groep gebruikt sourceforge om nieuwe opties te verwerken. Doorlees alle forums om te controleren of je optie niet reeds voorkomt en wat de positie ervan dan is, volg de daar gegeven procedure.'
+		1 => 'Deze software is geschreven door en eigendom van de phpBB Groep. Als u denkt dat een bepaalde optie toegevoegd moet worden, of u hebt een bug ontdekt dan kunt u terecht op de phpbb <a href="http://area51.phpbb.com/">Area51</a> website.'
 	),
 	array(
 		0 => 'Wie contacteer ik omtrent misbruik en/of wettelijke kwesties in verband met dit forum?',

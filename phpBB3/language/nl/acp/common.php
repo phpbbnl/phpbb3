@@ -97,7 +97,7 @@ $lang = array_merge($lang, array(
 	'ACP_GLOBAL_PERMISSIONS'		=> 'Algemene permissies',
 	'ACP_GROUPS'					=> 'Groepen',
 	'ACP_GROUPS_FORUM_PERMISSIONS'	=> 'Forumpermissies groepen',
-	'ACP_GROUPS_MANAGE'				=> 'Groepsbeheer',
+	'ACP_GROUPS_MANAGE'				=> 'Beheer groepen',
 	'ACP_GROUPS_MANAGEMENT'			=> 'Groepsbeheer',
 	'ACP_GROUPS_PERMISSIONS'		=> 'Permissies groepen',
 
@@ -404,7 +404,7 @@ $lang = array_merge($lang, array(
 	'INACTIVE_REASON_UNKNOWN'		=> 'Onbekend',
 	'INACTIVE_USERS'				=> 'Inactieve gebruikers',
 	'INACTIVE_USERS_EXPLAIN'		=> 'Dit is een lijst van gebruikers die zich geregistreerd hebben, maar waarvan het account inactief is. Je kunt deze gebruikers activeren, verwijderen of herinneren (via een e-mail) aan hun activatie.',
-	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Dit is een lijst van de laatste 10 geregistreerde gebruikers met een inactief account. De volledige lijst kan worden geraadpleegd door op de bijhorende optie in het menu of door op de link hieronder te klikken, waarna je de gebruikers kunt activeren, verwijderen of herinneren (via een e-mail) aan hun activatie.',
+	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Dit is een lijst van de laatste 10 geregistreerde gebruikers met een inactief account. Accounts zijn inactief omdat de functie "activeer account" in de gebruikersregistratie aanstaat en deze gebruikers nog niet zijn geactiveerd of deze zijn gedeactiveerd. De volledige lijst kan worden geraadpleegd door op de bijhorende optie in het menu of door op de link hieronder te klikken, waarna je de gebruikers kunt activeren, verwijderen of herinneren (via een e-mail) aan hun activatie.',
 
 	'NO_INACTIVE_USERS'	=> 'Geen inactieve gebruikers',
 

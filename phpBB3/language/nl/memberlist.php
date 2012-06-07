@@ -109,8 +109,8 @@ $lang = array_merge($lang, array(
 	'OTHER'					=> 'Andere',
 
 	'POST_IP'				=> 'Geplaatst van IP/domein',
+	
 
-	'RANK'					=> 'Rang',
 	'REAL_NAME'				=> 'Naam ontvanger',
 	'RECIPIENT'				=> 'Ontvanger',
 	'REMOVE_FOE'			=> 'Verwijder vijand',

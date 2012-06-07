@@ -124,6 +124,7 @@ $lang = array_merge($lang, array(
 	'USER_GROUP_SPECIAL'			=> 'Speciale groepsgebruiker is lid van',
 	'USER_LIFTED_NR'				=> 'Nieuw geregistreerde status van gebruiker succesvol verwijderd.',
 	'USER_NO_ATTACHMENTS'			=> 'Er zijn geen bijgevoegde bestanden om te laten zien.',
+	'USER_NO_POSTS_TO_DELETE'		=> 'Er zijn geen berichten om te behouden of te verwijderen.',
 	'USER_OUTBOX_EMPTIED'			=> 'Privéberichten postvak uit van gebruiker succesvol geleegd.',
 	'USER_OUTBOX_EMPTY'				=> 'De privéberichten postvak uit was al leeg.',
 	'USER_OVERVIEW_UPDATED'			=> 'Gebruikersdetails bijgewerkt.',

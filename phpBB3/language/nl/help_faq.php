@@ -84,7 +84,7 @@ $help = array(
 	),
 	array(
 		0 => 'De tijden zijn niet correct!',
-		1 => 'Het is mogelijk dat de tijd die gegeven wordt van een andere tijdzone is dan waarin jij woont. Als dit het geval is, moet je naar het gebruikerspaneel gaan en je tijdzone veranderen in een bepaalt gebied (vb: Amsterdam, New York, Sydney, enz.). Wees er bewust van dat het veranderen van de tijdzone, zoals de meeste instellingen, alleen gedaan kunnen worden door geregistreerde gebruikers. Als je nog niet geregistreerd bent is dit een goed moment om dit te doen.'
+		1 => 'Het is mogelijk dat de tijd die gegeven wordt van een andere tijdzone is dan waarin jij woont. Als dit het geval is, moet je naar het gebruikerspaneel gaan en je tijdzone veranderen in een bepaald gebied (vb: Amsterdam, New York, Sydney, enz.). Wees er bewust van dat het veranderen van de tijdzone, zoals de meeste instellingen, alleen gedaan kunnen worden door geregistreerde gebruikers. Als je nog niet geregistreerd bent is dit een goed moment om dit te doen.'
 	),
 	array(
 		0 => 'Ik wijzigde de tijdzone, maar de tijd is nog steeds verkeerd!',
@@ -112,7 +112,7 @@ $help = array(
 	),
 	array(
 		0 => 'Hoe plaats ik een onderwerp in een forum?',
-		1 => 'Om een nieuw onderwerp in één van de forums te plaatsen, klik je op de bijhorende knop op ofwel de pagina met onderwerpen of in een bepaalt onderwerp. Mogelijk moet je je registreren voor je een nieuw onderwerp kan aanmaken, de permissies die je al dan niet hebt in het forum staan onderaan de pagina met onderwerpen of in een onderwerp (de lijst met <em>je mag geen nieuwe onderwerpen in dit forum plaatsen, je mag niet antwoorden op een onderwerp in dit forum, enz.</em>).'
+		1 => 'Om een nieuw onderwerp in één van de forums te plaatsen, klik je op de bijhorende knop op ofwel de pagina met onderwerpen of in een bepaald onderwerp. Mogelijk moet je je registreren voor je een nieuw onderwerp kan aanmaken, de permissies die je al dan niet hebt in het forum staan onderaan de pagina met onderwerpen of in een onderwerp (de lijst met <em>je mag geen nieuwe onderwerpen in dit forum plaatsen, je mag niet antwoorden op een onderwerp in dit forum, enz.</em>).'
 	),
 	array(
 		0 => 'Hoe wijzig of verwijder ik een bericht?',
@@ -140,7 +140,7 @@ $help = array(
 	),
 	array(
 		0 => 'Waarom kan ik geen bijlagen toevoegen?',
-		1 => 'De mogelijkheid om bijlagen toe te voegen, kan per forum, per gebruikersgroep of per gebruiker ingesteld worden. De beheerder kan het bijvoorbeeld zo ingesteld hebben dat je in een bepaalt forum helemaal geen bijlagen mag toevoegen, of dat alleen de beheerders groep dit mag. Neem contact op met de beheerder als je niet zeker weet waarom je geen bijlagen kan toevoegen.'
+		1 => 'De mogelijkheid om bijlagen toe te voegen, kan per forum, per gebruikersgroep of per gebruiker ingesteld worden. De beheerder kan het bijvoorbeeld zo ingesteld hebben dat je in een bepaald forum helemaal geen bijlagen mag toevoegen, of dat alleen de beheerders groep dit mag. Neem contact op met de beheerder als je niet zeker weet waarom je geen bijlagen kan toevoegen.'
 	),
 	array(
 		0 => 'Waarom ontving ik een waarschuwing?',
@@ -176,7 +176,7 @@ $help = array(
 	),
 	array(
 		0 => 'Wat zijn smilies?',
-		1 => 'Smilies zijn kleine afbeeldingen die gebruikt kunnen worden om een gevoelstoestand uit te drukken, bijvoorbeeld :) betekent blij, :( betekent ongelukkig. Alle beschikbare smilies worden weergegeven als je een bericht plaatst. Maak geen overdadig gebruik van smilies, ze maken een bericht snel onleesbaar, wat er toe kan leiden dat een moderator je bericht aanpast of heel je bericht verwijdert. De beheerder kan ook een maximaal aantal smilies, dat in een bericht gebruikt mag worden, bepaalt hebben.'
+		1 => 'Smilies zijn kleine afbeeldingen die gebruikt kunnen worden om een gevoelstoestand uit te drukken, bijvoorbeeld :) betekent blij, :( betekent ongelukkig. Alle beschikbare smilies worden weergegeven als je een bericht plaatst. Maak geen overdadig gebruik van smilies, ze maken een bericht snel onleesbaar, wat er toe kan leiden dat een moderator je bericht aanpast of heel je bericht verwijdert. De beheerder kan ook een maximaal aantal smilies, dat in een bericht gebruikt mag worden, bepaald hebben.'
 	),
 	array(
 		0 => 'Kan ik afbeeldingen plaatsen?',
@@ -188,7 +188,7 @@ $help = array(
 	),
 	array(
 		0 => 'Wat zijn mededelingen?',
-		1 => 'Mededelingen bevatten vaak belangrijke informatie over het forum dat je aan het lezen bent, je kunt deze berichten dan ook het best zo snel mogelijk lezen. Mededelingen verschijnen bovenaan iedere pagina van het forum waarin ze geplaatst zijn. Zoals bij globale mededelingen, hangt het van de vereiste permissies af of je al dan niet mededelingen kan plaatsen. De nodige permissies zijn bepaalt door de beheerder.'
+		1 => 'Mededelingen bevatten vaak belangrijke informatie over het forum dat je aan het lezen bent, je kunt deze berichten dan ook het best zo snel mogelijk lezen. Mededelingen verschijnen bovenaan iedere pagina van het forum waarin ze geplaatst zijn. Zoals bij globale mededelingen, hangt het van de vereiste permissies af of je al dan niet mededelingen kan plaatsen. De nodige permissies zijn bepaald door de beheerder.'
 	),
 	array(
 		0 => 'Wat zijn sticky onderwerpen?',

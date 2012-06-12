@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'BLANK_PREFIX_FOUND'			=> 'Een tabellenscan heeft een geldige installatie gevonden, met tabellen zonder voorvoegsel.',
 	'BOARD_NOT_INSTALLED'			=> 'Geen foruminstallatie gevonden',
 	'BOARD_NOT_INSTALLED_EXPLAIN'	=> 'Het phpBB Verenigd Conversie Framework vereist een standaard phpBB3 installatie, ga verder door <a href="%s">phpBB3 eerst te installeren</a>.',
-	'BACKUP_NOTICE'					=> 'Voor de update wordt je aangeraden een backup te maken, voor het geval er problemen ontstaan tijdens de update procedure.',
+	'BACKUP_NOTICE'					=> 'Voor de update word je aangeraden een backup te maken, voor het geval er problemen ontstaan tijdens de update procedure.',
 	
 	'CATEGORY'					=> 'Categorie',
 	'CACHE_STORE'				=> 'Buffertype',

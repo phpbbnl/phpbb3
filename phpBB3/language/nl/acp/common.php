@@ -97,7 +97,7 @@ $lang = array_merge($lang, array(
 	'ACP_GLOBAL_PERMISSIONS'		=> 'Algemene permissies',
 	'ACP_GROUPS'					=> 'Groepen',
 	'ACP_GROUPS_FORUM_PERMISSIONS'	=> 'Forumpermissies groepen',
-	'ACP_GROUPS_MANAGE'				=> 'Beheer groepen',
+	'ACP_GROUPS_MANAGE'				=> 'Groepsbeheer',
 	'ACP_GROUPS_MANAGEMENT'			=> 'Groepsbeheer',
 	'ACP_GROUPS_PERMISSIONS'		=> 'Permissies groepen',
 

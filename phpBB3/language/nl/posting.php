@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 	'ADD_POLL'					=> 'Poll toevoegen',
 	'ADD_POLL_EXPLAIN'			=> 'Als je geen poll aan je onderwerp wilt toevoegen, laat deze velden dan leeg.',
 	'ALREADY_DELETED'			=> 'Dit bericht is al verwijderd.',
-	'ATTACH_DISK_FULL'			=> 'Er is niet genoeg vrije schijf ruimte om deze bijlage te plaatsen.',
+	'ATTACH_DISK_FULL'			=> 'Er is niet genoeg vrije schijfruimte om deze bijlage te plaatsen.',
 
 	'ATTACH_QUOTA_REACHED'		=> 'De bijlagequota is bereikt.',
 	'ATTACH_SIG'				=> 'Voeg mijn onderschrift toe (te wijzigen via het gebruikerspaneel)',

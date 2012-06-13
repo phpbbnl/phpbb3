@@ -168,7 +168,7 @@ $help = array(
 	),
 	array(
 		0 => 'Wat is BBCode?',
-		1 => 'BBCode is een vereenvoudigde versie van html, het gebruik ervan is al dan niet toegestaan door de beheerder (je kunt de BBCode ook per bericht uitschakelen, dit is een optie bij het plaatsen van je bericht). De syntax van BBCode is quasi gelijk aan die van HTML, tags worden tussen vierkante haakjes [ en ] geplaatst, dus niet < en >. Daarnaast geeft het ook een grotere controle over hoe iets wordt weergegeven. Meer informatie omtrent BBCode is te vinden in de handleiding die je kunt openen als je een bericht plaatst.'
+		1 => 'BBCode is een vereenvoudigde versie van html, het gebruik ervan is al dan niet toegestaan door de beheerder (je kunt de BBCode ook per bericht uitschakelen, dit is een optie bij het plaatsen van je bericht). De syntax van BBCode is quasi gelijk aan die van HTML, tags worden tussen vierkante haakjes [ en ] geplaatst, dus niet &lt; en &gt;. Daarnaast geeft het ook een grotere controle over hoe iets wordt weergegeven. Meer informatie omtrent BBCode is te vinden in de handleiding die je kunt openen als je een bericht plaatst.'
 	),
 	array(
 		0 => 'Kan ik HTML gebruiken?',

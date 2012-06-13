@@ -4,9 +4,9 @@
 * acp_board [Dutch]
 *
 * @package language
-* @version $Id: board.php,v 1.0.0 2007/01/21 18:33:45 acydburn Exp $
-* @copyright (c) 2005 phpBB Group modified by phpBB.nl (vertaalteam@phpbb.nl) in 2007
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2007 phpBB.nl
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 

@@ -4,9 +4,9 @@
 * memberlist [Dutch]
 *
 * @package language
-* @version $Id: memberlist.php,v 1.0.0 2006/08/03 19:10:38 grahamje Exp $
-* @copyright (c) 2005 phpBB Group modified by phpBB.nl (vertaalteam@phpbb.nl) in 2007
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2007 phpBB.nl
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 

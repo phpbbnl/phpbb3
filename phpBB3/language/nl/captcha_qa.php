@@ -4,9 +4,9 @@
 * captcha_qa [Dutch]
 *
 * @package language
-* @version $Id: captcha_qa.php 9902 2009-08-01 11:07:48Z acydburn $
-* @copyright (c) 2009 phpBB Group modified by phpBB.nl (vertaalteam@phpbb.nl) in 2009
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2009 phpBB Group
+* @copyright (c) 2009 phpBB.nl
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 

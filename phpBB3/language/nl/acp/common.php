@@ -1,12 +1,12 @@
 <?php
 /**
 *
-* acp common [Dutch]
+* acp_common [Dutch]
 *
 * @package language
-* @version $Id: common.php,v 1.0.0 2007/01/24 11:29:56 acydburn Exp $
-* @copyright (c) 2005 phpBB Group modified by phpBB.nl (vertaalteam@phpbb.nl) in 2007
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2007 phpBB.nl
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 

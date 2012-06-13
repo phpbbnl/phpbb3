@@ -1,12 +1,12 @@
 <?php
 /**
 *
-* recaptcha [[Dutch]
+* recaptcha [Dutch]
 *
 * @package language
-* @version $Id: captcha_recaptcha.php 9801 2009-07-20 10:22:13Z Kellanved $
-* @copyright (c) 2009 phpBB Group modified by phpBB.nl (vertaalteam@phpbb.nl) in 2009
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2009 phpBB Group
+* @copyright (c) 2009 phpBB.nl
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 

@@ -447,7 +447,7 @@ $lang = array_merge($lang, array(
 	'BROWSER_VALID'					=> 'Valideer browser',
 	'BROWSER_VALID_EXPLAIN'			=> 'Schakelt browservalidatie voor elke sessie in om de beveiliging te verbeteren.',
 	'CHECK_DNSBL'					=> 'Controleer IP in de DNS Blackhole List',
-	'CHECK_DNSBL_EXPLAIN'			=> 'Indien ingeschakeld, wordt het gebruikers-IP gecontroleerd op registraties en het plaatsen van berichten bij de volgende DNSBL diensten: <a href="http://spamcop.net">spamcop.net</a> en <a href="http://www.spamhaus.org">www.spamhaus.org</a>. Het opzoeken hiervan kan even duren, afhankelijk van de serverconfiguratie. Indien je teveel vertraging of onterecht positieve antwoorden krijgt, kan je dit beter uitschakelen.',
+	'CHECK_DNSBL_EXPLAIN'			=> 'Indien ingeschakeld, wordt het gebruikers-IP gecontroleerd op registraties en het plaatsen van berichten bij de volgende DNSBL diensten: <a href="http://spamcop.net">spamcop.net</a> en <a href="http://www.spamhaus.org">www.spamhaus.org</a>. Het opzoeken hiervan kan even duren, afhankelijk van de serverconfiguratie. Indien je teveel vertraging of onterecht positieve antwoorden krijgt, kun je dit beter uitschakelen.',
 	'CLASS_B'						=> 'A.B',
 	'CLASS_C'						=> 'A.B.C',
 	'EMAIL_CHECK_MX'				=> 'Controleer e-maildomein op geldig MX-record',

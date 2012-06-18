@@ -2,7 +2,7 @@ Subject: phpBB installatie geslaagd
 
 Gefeliciteerd,
 
-Je hebt phpBB succesvol op je server geïnstalleerd.
+Je hebt phpBB succesvol op je server geÃ¯nstalleerd.
 
 Deze e-mail bevat belangrijke informatie over je registratie en het is aan te raden om deze te bewaren. Je wachtwoord is veilig opgeslagen in onze database en kan niet worden opgevraagd. Indien je je wachtwoord bent vergeten, kun je deze laten resetten aan de hand van je opgegeven e-mailadres en gebruikersnaam.
 

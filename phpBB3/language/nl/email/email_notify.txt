@@ -2,7 +2,7 @@ Subject: "{SITENAME}" - Email een vriend
 
 Hallo {TO_USERNAME},
 
-Deze e-mail is gestuurd via "{SITENAME}" door {FROM_USERNAME} die dacht dat je wel geïnteresseerd zou zijn in het volgende onderwerp:
+Deze e-mail is gestuurd via "{SITENAME}" door {FROM_USERNAME} die dacht dat je wel geÃ¯nteresseerd zou zijn in het volgende onderwerp:
 
 {TOPIC_NAME}
 

@@ -273,7 +273,7 @@ $lang = array_merge($lang, array(
 	'TRACE_WHO'								=> 'Wie',
 	'TRACE_TOTAL'							=> 'Totaal',
 
-	'USERS_NOT_ASSIGNED'			=> 'Geen gebruiker(s) toegewezen aan deze rol',
+	'USERS_NOT_ASSIGNED'			=> 'Geen gebruikers toegewezen aan deze rol',
 	'USER_IS_MEMBER_OF_DEFAULT'		=> 'is lid van de volgende voorgedefinieerde groepen',
 	'USER_IS_MEMBER_OF_CUSTOM'		=> 'is lid van de volgende gebruikersgedefinieerde groepen',
 

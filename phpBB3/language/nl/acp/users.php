@@ -59,7 +59,7 @@ $lang = array_merge($lang, array(
 
 	'DELETE_POSTS'			=> 'Verwijder berichten',
 	'DELETE_USER'			=> 'Verwijder gebruiker',
-	'DELETE_USER_EXPLAIN'	=> 'Let op, het verwijderen van een gebruiker is definitief, dit kan niet ongedaan worden gemaakt. Ongelezen priveberichten van deze gebruiker worden eveneens verwijderd en zijn niet meer beschikbaar voor de ontvanger(s).',
+	'DELETE_USER_EXPLAIN'	=> 'Let op, het verwijderen van een gebruiker is definitief, dit kan niet ongedaan worden gemaakt. Ongelezen privéberichten die zijn verstuurd door deze gebruiker worden verwijderd en zijn niet meer beschikbaar voor de ontvangers.',
 
 	'FORCE_REACTIVATION_SUCCESS'	=> 'Succesvol verplicht om opnieuw te activeren.',
 	'FOUNDER'						=> 'Eigenaar',

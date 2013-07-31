@@ -329,7 +329,7 @@ $help = array(
 	),
 	array(
 		0 => 'Wie heeft dit forum geschreven?',
-		1 => 'Deze software (in zijn originele vorm) is geschreven, vrijgegeven en met een copyright beschermd door de <a href="http://www.phpbb.com">phpBB groep</a>. De applicatie is beschikbaar onder de GNU General Public License en mag vrij verspreid worden, raadpleeg de link voor verdere informatie.'
+		1 => 'Deze software (in zijn originele vorm) is geschreven, vrijgegeven en met een copyright beschermd door de <a href="https://www.phpbb.com">phpBB groep</a>. De applicatie is beschikbaar onder de GNU General Public License en mag vrij verspreid worden, raadpleeg de link voor verdere informatie.'
 	),
 	array(
 		0 => 'Waarom is de optie X niet beschikbaar?',

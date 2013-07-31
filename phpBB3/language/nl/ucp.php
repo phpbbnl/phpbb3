@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'TERMS_OF_USE_CONTENT'	=> 'Door het bezoeken/gebruiken van "%1$s" (in wat volgt wordt hiernaar verwezen als het gaat over "wij", "ons", "onze", "%1$s" of "%2$s"), ga je automatisch akkoord met de volgende voorwaarden. Als je niet akkoord gaat met één van de voorwaarden, bezoek/gebruik "%1$s" dan niet langer. We behouden ons het recht voor om deze voorwaarden op ieder moment te wijzigen en zullen je daar -waar mogelijk- van op de hoogte houden. Het is echter aan te bevelen om regelmatig zelf de voorwaarden te controleren op wijzigingen. Als je niet akkoord gaat met één van de wijzigingen, maak dan niet langer gebruik van "%1$s". Als je wel gebruik blijft maken van "%1$s", ga je automatisch akkoord met de wijzigingen.<br />
 	<br />
-	Dit forum werkt op basis van phpBB (in wat volgt wordt hiernaar verwezen als het gaat over "zij", "hen", "hun", "phpBB-software", "www.phpbb.com", "phpBB Groep", "phpBB Teams"). Dit is een forumpakket dat is vrijgegeven onder de "<a href="http://www.gnu.org/licenses/gpl.html">General Public License</a>" (of "GPL") en kan worden gedownload op <a href="http://www.phpbb.com/">www.phpbb.com</a>. De phpBB-software vergemakkelijkt alleen discussies via het internet en GPL verbiedt hen tussen te komen in wat wij toestaan en/of verbieden als toelaatbare inhoud en/of gedrag. Voor meer informatie omtrent phpBB, zie: <a href="http://www.phpbb.com/">http://www.phpbb.com/</a>.<br />
+	Dit forum werkt op basis van phpBB (in wat volgt wordt hiernaar verwezen als het gaat over "zij", "hen", "hun", "phpBB-software", "www.phpbb.com", "phpBB Groep", "phpBB Teams"). Dit is een forumpakket dat is vrijgegeven onder de "<a href="http://www.gnu.org/licenses/gpl.html">General Public License</a>" (of "GPL") en kan worden gedownload op <a href="https://www.phpbb.com/">www.phpbb.com</a>. De phpBB-software vergemakkelijkt alleen discussies via het internet en GPL verbiedt hen tussen te komen in wat wij toestaan en/of verbieden als toelaatbare inhoud en/of gedrag. Voor meer informatie omtrent phpBB, zie: <a href="https://www.phpbb.com/">https://www.phpbb.com/</a>.<br />
 	<br />
 	Verder verklaar je geen kwetsende, obscene, vulgaire, lasterlijke, haatdragende, bedreigende, racistische, seksueel-georiënteerde of andere inhoud te plaatsen, die in strijd is met internationale wetten, de wetten van je eigen land of het land waar "%1$s" gehost wordt. Als je dit toch doet, kan dit leiden tot een onmiddellijke permanente uitsluiting en waarschuwen we, als we dit nodig vinden, je internetprovider. Je IP-adres wordt bij registratie en iedere post opgeslagen, waardoor we het volgen van de voorwaarden kunnen afdwingen. Je gaat ook akkoord met het feit dat "%1$s" het recht heeft om op ieder moment een onderwerp te verwijderen, verplaatsen of sluiten. Als gebruiker sta je ook toe dat jouw opgegeven informatie in onze database wordt opgeslagen. Deze informatie wordt nooit zonder jouw toestemming aan derden doorgegeven, tenzij een rechter hierom vraagt. Noch "%1$s", noch phpBB zijn verantwoordelijk als je gegevens door een forumhack toch openbaar gemaakt zouden worden.
 	',
@@ -176,7 +176,6 @@ $lang = array_merge($lang, array(
 
 	'EDIT_DRAFT_EXPLAIN'		=> 'Hier kun je je concept bewerken. Concepten bevatten geen bijlage(n) en/of poll informatie.',
 	'EMAIL_BANNED_EMAIL'		=> 'Het opgegeven e-mailadres kan niet worden gebruikt.',
-	'EMAIL_INVALID_EMAIL'		=> 'Het opgegeven e-mailadres is ongeldig.',
 	'EMAIL_REMIND'				=> 'Dit moet het e-mailadres zijn dat je bij je account hebt opgegeven. Als je dit niet hebt veranderd in het gebruikerspaneel, dan is dit het e-mailadres dat je bij je registratie hebt gebruikt.',
 	'EMAIL_TAKEN_EMAIL'			=> 'Het opgegeven e-mailadres is reeds in gebruik.',
 	'EMPTY_DRAFT'				=> 'Je moet een bericht opgeven om je wijzigingen op te slaan',
@@ -257,8 +256,9 @@ $lang = array_merge($lang, array(
 	'MESSAGE_BY_AUTHOR'				=> 'door',
 	'MESSAGE_COLOURS'				=> 'Bericht kleuren',
 	'MESSAGE_DELETED'				=> 'Bericht verwijderd',
+	'MESSAGE_EDITED'				=> 'Bericht succesvol gewijzigd.',
 	'MESSAGE_HISTORY'				=> 'Berichtgeschiedenis',
-	'MESSAGE_REMOVED_FROM_OUTBOX'	=> 'Dit bericht werd door de auteur verwijderd, voordat het kon worden bezorgd.',
+	'MESSAGE_REMOVED_FROM_OUTBOX'	=> 'Dit bericht werd door de auteur verwijderd.',
 	'MESSAGE_SENT_ON'				=> 'op',
 	'MESSAGE_STORED'				=> 'Je bericht is verzonden',
 	'MESSAGE_TO'					=> 'Naar',

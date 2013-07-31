@@ -160,6 +160,7 @@ $lang = array_merge($lang, array(
 	'EDIT_POST'							=> 'Wijzig bericht',
 	'EMAIL'								=> 'E-mail', // Short form for EMAIL_ADDRESS
 	'EMAIL_ADDRESS'						=> 'E-mailadres',
+	'EMAIL_INVALID_EMAIL'				=> 'Het ingevoerde e-mailadres is niet juist.',
 	'EMAIL_SMTP_ERROR_RESPONSE'			=> 'Er ging iets fout bij het versturen van de mail op <strong>regel %1$s</strong>. Antwoord: %2$s',
 	'EMPTY_SUBJECT'						=> 'Je moet een onderwerp opgeven bij het plaatsen van een nieuw bericht.',
 	'EMPTY_MESSAGE_SUBJECT'				=> 'Je moet een onderwerp opgeven bij het plaatsen van een nieuw bericht.',
@@ -390,6 +391,7 @@ $lang = array_merge($lang, array(
 	'NO_POSTS_TIME_FRAME'		=> 'Er zijn in dit onderwerp in de gekozen periode geen berichten geplaatst.',
 	'NO_FEED_ENABLED'			=> 'Feeds zijn op dit forum niet beschikbaar.',
 	'NO_FEED'					=> 'De opgevraagde feed is niet beschikbaar.',
+	'NO_STYLE_DATA'				=> 'Kan de stijlbestanden niet vinden',
 	'NO_SUBJECT'				=> 'Geen titel opgegeven',								// Used for posts having no subject defined but displayed within management pages.
 	'NO_SUCH_SEARCH_MODULE'		=> 'De opgegeven zoekmodule bestaat niet',
 	'NO_SUPPORTED_AUTH_METHODS'	=> 'Er zijn geen ondersteunende inlogmethodes',
@@ -568,11 +570,14 @@ $lang = array_merge($lang, array(
 	'SUBFORUMS'					=> 'Subforums',
 	'SUBJECT'					=> 'Onderwerp',
 	'SUBMIT'					=> 'Bevestig',
+	'TB'						=> 'TB',
 
 	'TERMS_USE'			=> 'Gebruikersvoorwaarden',
 	'TEST_CONNECTION'	=> 'Verbinding testen',
 	'THE_TEAM'			=> 'Het team',
 	'TIME'				=> 'Tijd',
+	'TIB'				=> 'TiB',
+
 
 	'TOO_LARGE'						=> 'De door jou ingevoerde waarde is te groot.',
 	'TOO_LARGE_MAX_RECIPIENTS'		=> 'De door jou ingevoerde waarde van de <strong>Maximaal aantal ontvangers per privébericht</strong> instelling is te groot.',
@@ -718,6 +723,7 @@ $lang = array_merge($lang, array(
 	'WHOIS'				=> 'Whois',
 	'WHO_IS_ONLINE'		=> 'Wie is er online',
 	'WRONG_PASSWORD'	=> 'Het opgegeven wachtwoord is onjuist.',
+	'WRONG_DATA_COLOUR'			=> 'De opgegeven kleurcode is niet geldig.',
 
 	'WRONG_DATA_ICQ'			=> 'Het opgegeven ICQ-nummer is ongeldig.',
 	'WRONG_DATA_JABBER'			=> 'Het opgegeven Jabber-adres is ongeldig.',

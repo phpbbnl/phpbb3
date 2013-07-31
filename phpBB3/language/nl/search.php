@@ -77,6 +77,7 @@ $lang = array_merge($lang, array(
 
 	'SEARCHED_FOR'				=> 'Gebruikte zoekterm',
 	'SEARCHED_TOPIC'			=> 'Doorzocht onderwerp',
+	'SEARCHED_QUERY'			=> 'Gebruikte zoekopdracht',
 	'SEARCH_ALL_TERMS'			=> 'Zoek naar elke term afzonderlijk, of gebruik de opdracht zoals opgegeven',
 	'SEARCH_ANY_TERMS'			=> 'Zoek naar één van de woorden',
 	'SEARCH_AUTHOR'				=> 'Zoek volgens auteur',

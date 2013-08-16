@@ -330,9 +330,9 @@ $lang = array_merge($lang, array(
 	'NO_RULES_DEFINED'			=> 'Er zijn geen regels gedefinieerd.',
 	'NO_SAVED_DRAFTS'			=> 'Er zijn geen opgeslagen concepten.',
 	'NO_TO_RECIPIENT'			=> 'Geen',
-	'NO_WATCHED_FORUMS'			=> 'Je hebt geen forum-abonnement(en).',
+	'NO_WATCHED_FORUMS'			=> 'Je hebt geen forum-abonnementen.',
 	'NO_WATCHED_SELECTED'		=> 'Je hebt geen forum- of onderwerp-abonnementen geselecteerd.',
-	'NO_WATCHED_TOPICS'			=> 'Je hebt geen onderwerp-abonnement(en).',
+	'NO_WATCHED_TOPICS'			=> 'Je hebt geen onderwerp-abonnementen.',
 
 	'PASS_TYPE_ALPHA_EXPLAIN'	=> 'Het wachtwoord moet tussen de %1$d en %2$d tekens lang zijn en moet zowel hoofdletters, kleine letters, als cijfers bevatten',
 	'PASS_TYPE_ANY_EXPLAIN'		=> 'Moet tussen %1$d en %2$d tekens lang zijn.',

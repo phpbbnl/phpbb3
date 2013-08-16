@@ -139,7 +139,7 @@ $lang = array_merge($lang, array(
 	'DB_TEST'					=> 'Test verbinding',
 	'DEFAULT_LANG'				=> 'Standaard forumtaal',
 	'DEFAULT_PREFIX_IS'			=> 'De conversie kan geen tabellen met het opgegeven voorvoegsel vinden. Controleer of dat je de correcte gegevens opgeeft voor het forum waarvan je converteert. Het standaard tabelvoorvoegsel, voor %1$s is <strong>%2$s</strong>.',
-	'DEV_NO_TEST_FILE'			=> 'Er is in de converter geen waarde voor de test_file variabele opgegeven. Als je een converter gebruiker bent, zou je deze fout niet mogen zien, meld deze fout dan alstublieft aan de converter auteur. Als je de converter auteur bent, moet je de naam van een bestaand bestand van het forum opgeven zodat het pad gecontroleerd kan worden.',
+	'DEV_NO_TEST_FILE'			=> 'Er is in de converter geen waarde voor de test_file variabele opgegeven. Als je een converter gebruiker bent, zou je deze fout niet mogen zien, meld deze fout dan aan de converter auteur. Als je de converter auteur bent, moet je de naam van een bestaand bestand van het forum opgeven zodat het pad gecontroleerd kan worden.',
 	'DIRECTORIES_AND_FILES'		=> 'Map- en bestandssetup',
 	'DISABLE_KEYS'				=> 'Blokkeer sleutels',
 	'DLL_FIREBIRD'				=> 'Firebird',
@@ -277,7 +277,7 @@ $lang = array_merge($lang, array(
 	'MAKE_FOLDER_WRITABLE'		=> 'Zorg ervoor dat deze map bestaat en door de webserver beschreven kan worden, probeer daarna opnieuw:<br />»<strong>%s</strong>.',
 	'MAKE_FOLDERS_WRITABLE'		=> 'Zorg ervoor dat deze mappen bestaan en door de webserver beschreven kunnen worden, probeer daarna opnieuw:<br />»<strong>%s</strong>.',
 
-	'MYSQL_SCHEMA_UPDATE_REQUIRED'	=> 'Jouw MySQL database schema voor phpBB is verouderd. phpBB detecteerde een schema voor MySQL 3.x/4.x, Maar de server draait op MySQL %2$s.<br /><strong>Voordat je verder gaat met bijwerken, moet je eerst je schema bijwerken.</strong><br /><br />Refereer alstublieft aan het <a href="https://www.phpbb.com/kb/article/doesnt-have-a-default-value-errors/">Knowledge Base artikel over het bijwerken van het MySQL schema</a>. Indien je problemen ondervind gebruik dan alstublieft <a href="http://www.phpbb.com/community/viewforum.php?f=46">onze support forums</a>.',
+	'MYSQL_SCHEMA_UPDATE_REQUIRED'	=> 'Jouw MySQL database schema voor phpBB is verouderd. phpBB detecteerde een schema voor MySQL 3.x/4.x, Maar de server draait op MySQL %2$s.<br /><strong>Voordat je verder gaat met bijwerken, moet je eerst je schema bijwerken.</strong><br /><br />Refereer aan het <a href="https://www.phpbb.com/kb/article/doesnt-have-a-default-value-errors/">Knowledge Base artikel over het bijwerken van het MySQL schema</a>. Indien je problemen ondervind gebruik dan <a href="http://www.phpbb.com/community/viewforum.php?f=46">onze support forums</a>.',
 
 	'NAMING_CONFLICT'			=> 'Naam conflict: %s en %s zijn beide aliassen<br /><br />%s',
 	'NEXT_STEP'					=> 'Ga door naar de volgende stap',

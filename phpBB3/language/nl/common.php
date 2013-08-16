@@ -723,7 +723,7 @@ $lang = array_merge($lang, array(
 	'WHOIS'				=> 'Whois',
 	'WHO_IS_ONLINE'		=> 'Wie is er online',
 	'WRONG_PASSWORD'	=> 'Het opgegeven wachtwoord is onjuist.',
-	'WRONG_DATA_COLOUR'			=> 'De opgegeven kleurcode is niet geldig.',
+	'WRONG_DATA_COLOUR'			=> 'De opgegeven kleurcode is ongeldig.',
 
 	'WRONG_DATA_ICQ'			=> 'Het opgegeven ICQ-nummer is ongeldig.',
 	'WRONG_DATA_JABBER'			=> 'Het opgegeven Jabber-adres is ongeldig.',

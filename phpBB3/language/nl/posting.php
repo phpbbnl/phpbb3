@@ -57,7 +57,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_I_HELP'				=> 'Cursieve tekst: [i]tekst[/i]',
 	'BBCODE_L_HELP'				=> 'Lijst: [list]tekst[/list]',
 	'BBCODE_LISTITEM_HELP'		=> 'Lijstpunt: [*]tekst[/*]',
-	'BBCODE_O_HELP'				=> 'Geordende lijst: [list=1][*]eerste punt[/list] of [list=a] punt a[/list]',
+	'BBCODE_O_HELP'				=> 'Geordende lijst: [list=1][*]Eerste optie[/list] of [list=a][*]Optie A[/list]',
 	'BBCODE_P_HELP'				=> 'Afbeelding: [img]http://www.phpbb.nl/fotos/foto.jpg[/img]',
 	'BBCODE_Q_HELP'				=> 'Citeer tekst: [quote]tekst[/quote]',
 	'BBCODE_S_HELP'				=> 'Tekstkleur: [color=red]tekst[/color] Tip: je kunt ook dit gebruiken: #FF0000',

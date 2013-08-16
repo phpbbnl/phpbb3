@@ -2,7 +2,7 @@ Subject: Nieuwe onderwerpherinnering - {FORUM_NAME}
 
 Hallo {USERNAME},
 
-Je ontvangt deze e-mail omdat je een forum in de gaten houdt, "{FORUM_NAME}" op {SITENAME}. Dit forum heeft een nieuw onderwerp "{TOPIC_TITLE}" <!-- IF AUTHOR_NAME --> door {AUTHOR_NAME}<!-- ENDIF --> sinds je laatste bezoek. Je kunt de volgende link gebruiken om het forum te bekijken, er zullen geen herinneringen meer gestuurd worden tot je dit forum hebt bezocht.
+Je ontvangt deze e-mail omdat je een forum in de gaten houdt, "{FORUM_NAME}" op {SITENAME}. Dit forum heeft een nieuw onderwerp "{TOPIC_TITLE}" <!-- IF AUTHOR_NAME --> door {AUTHOR_NAME}<!-- ENDIF --> sinds je laatste bezoek. Je kunt de volgende link gebruiken om het forum te bekijken. Er zullen geen herinneringen meer gestuurd worden tot je dit forum hebt bezocht.
 
 {U_FORUM}
 

@@ -1,12 +1,12 @@
-Subject: Nieuwe onderwerpherinnering - {FORUM_NAME}
+Subject: Nieuw onderwerp in het forum: {FORUM_NAME}
 
 Hallo {USERNAME},
 
-Je ontvangt deze e-mail omdat je een forum in de gaten houdt, "{FORUM_NAME}" op {SITENAME}. Dit forum heeft een nieuw onderwerp "{TOPIC_TITLE}" <!-- IF AUTHOR_NAME --> door {AUTHOR_NAME}<!-- ENDIF --> sinds je laatste bezoek. Je kunt de volgende link gebruiken om het forum te bekijken. Er zullen geen herinneringen meer gestuurd worden tot je dit forum hebt bezocht.
+Je ontvangt deze e-mail omdat je geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". In dit forum is een nieuw onderwerp "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF --> geplaatst sinds je laatste bezoek. Je kunt de volgende link gebruiken om het forum te bekijken.  Je ontvangt geen e-mails meer over dit forum totdat je dit onderwerp hebt bezocht.
 
 {U_FORUM}
 
-Als je dit forum niet langer wilt bekijken, kun je klikken op "Geen abonnement meer op dit forum" in het juiste forum, of door op de volgende link te klikken:
+Als je niet langer geabonneerd wilt zijn op dit forum klik dan op de volgende link:
 
 {U_STOP_WATCHING_FORUM}
 

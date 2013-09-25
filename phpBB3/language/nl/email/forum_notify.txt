@@ -1,8 +1,8 @@
-Subject: Forum berichtherinnering - {FORUM_NAME}
+Subject: Nieuwe reactie in het forum: {FORUM_NAME}
 
 Hallo {USERNAME},
 
-Je hebt deze e-mail ontvangen omdat je een onderwerp volgt in, "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuw bericht in het onderwerp "{TOPIC_TITLE}" <!-- IF AUTHOR_NAME --> door {AUTHOR_NAME}<!-- ENDIF --> sinds je laatste bezoek. Je kunt de volgende link gebruiken om het laatste nieuwe bericht te lezen. Er zullen geen herinneringen meer gestuurd worden tot je dit onderwerp bezocht hebt.
+Je ontvangt deze e-mail omdat je geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". In dit forum heeft het onderwerp "{TOPIC_TITLE}" een nieuwe reactie ontvangen<!-- IF AUTHOR_NAME !== '' --> van {AUTHOR_NAME}<!-- ENDIF --> sinds je laatste bezoek. Je kunt de volgende link gebruiken om de nieuwe reactie te lezen. Je ontvangt geen e-mails meer over dit forum totdat je dit onderwerp hebt bezocht.
 
 {U_NEWEST_POST}
 
@@ -12,7 +12,7 @@ Als je naar het onderwerp wilt gaan, klik dan op de volgende link:
 Als je naar het forum wilt gaan, klik dan op de volgende link:
 {U_FORUM}
 
-Als je dit forum niet langer wilt bekijken kun je klikken op "Geen abonnement meer op dit forum" in het juiste forum, of door op de volgende link te klikken:
+Als je niet langer geabonneerd wilt zijn op dit forum klik dan op de volgende link:
 
 {U_STOP_WATCHING_FORUM}
 

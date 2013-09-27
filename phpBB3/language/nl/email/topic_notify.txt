@@ -1,4 +1,4 @@
-Subject: Nieuwe reactie op het onderwerp: {TOPIC_TITLE}
+Subject: Nieuwe reactie op onderwerp: {TOPIC_TITLE}
 
 Hallo {USERNAME},
 

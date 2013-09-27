@@ -1,4 +1,4 @@
-Subject: Nieuw onderwerp in het forum: {FORUM_NAME}
+Subject: Nieuw onderwerp in forum: {FORUM_NAME}
 
 Hallo {USERNAME},
 

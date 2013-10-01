@@ -66,12 +66,12 @@ $lang = array_merge($lang, array(
 	'EXAMPLES'						=> 'Voorbeelden:',
 
 	'HTML_REPLACEMENT'				=> 'HTML-vervanging',
-	'HTML_REPLACEMENT_EXAMPLE'		=> '<span style="background-color: {COLOR};>{TEXT}</span><br /><br /><span style="font-family: {SIMPLETEXT1};>{SIMPLETEXT2}</span>',
+	'HTML_REPLACEMENT_EXAMPLE'		=> '&lt;span style="background-color: {COLOR};&gt;{TEXT}&lt;/span&gt;<br /><br />&lt;span style="font-family: {SIMPLETEXT1};&gt;{SIMPLETEXT2}&lt;/span&gt;',
 	'HTML_REPLACEMENT_EXPLAIN'		=> 'Hier kun je de standaard HTML-vervanging opgeven. Vergeet niet de variabele terug te plaatsen die je hierboven hebt gebruikt!',
 
 	'TOKEN'					=> 'Variabele',
 	'TOKENS'				=> 'Variabelen',
-	'TOKENS_EXPLAIN'		=> 'Variabelen zijn vervangers voor gebruikersinvoer. De invoer zal enkel gevalideerd worden als deze overeenkomt met de bijhorende definitie. Indien nodig kun je ze nummeren door als laatste teken, voor het haakje, een nummer toe te voegen, vb {GEBRUIKERSNAAM1}, {GEBRUIKERSNAAM2}.<br /><br />Daarnaast kun je ook iedere taalzin uit je language-map gebruiken, zoals hier: {L_<em><TAALZINNAAM></em>} waarbij <em><TAALZINNAAM></em> de naam is van de taalzin die je wilt toevoegen. Bijvoorbeeld, {L_WROTE} zal “schreef” weergeven, of een van de taal van de gebruiker afhangende vertaling. <strong>Let op dat alleen variabelen van hieronder gebruikt kunnen worden in custom BBCodes.</strong>',
+	'TOKENS_EXPLAIN'		=> 'Variabelen zijn vervangers voor gebruikersinvoer. De invoer zal enkel gevalideerd worden als deze overeenkomt met de bijhorende definitie. Indien nodig kun je ze nummeren door als laatste teken, voor het haakje, een nummer toe te voegen, vb {GEBRUIKERSNAAM1}, {GEBRUIKERSNAAM2}.<br /><br />Daarnaast kun je ook iedere taalzin uit je language-map gebruiken, zoals hier: {L_<em>&lt;TAALZINNAAM&gt;</em>} waarbij <em>&lt;TAALZINNAAM&gt;</em> de naam is van de taalzin die je wilt toevoegen. Bijvoorbeeld, {L_WROTE} zal “schreef” weergeven, of een van de taal van de gebruiker afhangende vertaling. <strong>Let op dat alleen variabelen van hieronder gebruikt kunnen worden in custom BBCodes.</strong>',
 	'TOKEN_DEFINITION'		=> 'Wat kan het zijn?',
 	'TOO_MANY_BBCODES'		=> 'Je kunt geen BBCodes meer aanmaken. Gelieve een of meerdere BBCodes te verwijderen en dan opnieuw te proberen.',
 

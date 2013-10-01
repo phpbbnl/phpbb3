@@ -574,7 +574,7 @@ $lang = array_merge($lang, array(
 	'LOG_GENERAL_ERROR'	=> '<strong>Er is een algemene fout opgetreden</strong>: %1$s <br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>Nieuwe gebruikersgroep aangemaakt</strong><br />» %s',
-	'LOG_GROUP_DEFAULTS'	=> '<strong>Groep als standaard voor gebruikers ingesteld</strong><br />» %s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>Groep “%1$s” als standaard voor gebruikers ingesteld</strong><br />» %2$s',
 	'LOG_GROUP_DELETE'		=> '<strong>Gebruikersgroep verwijderd</strong><br />» %s',
 	'LOG_GROUP_DEMOTED'		=> '<strong>Leiders toegewezen aan de groep</strong> %1$s<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>Leden gepromoveerd naar leider in de gebruikersgroep</strong> %1$s<br />» %2$s',
@@ -620,10 +620,10 @@ $lang = array_merge($lang, array(
 
 	'LOG_MCP_CHANGE_POSTER'	=> '<strong>Auteur gewijzigd in onderwerp "%1$s"</strong><br />» van %2$s naar %3$s',
 
-	'LOG_MODULE_DISABLE'	=> '<strong>Module uitgeschakeld</strong>',
-	'LOG_MODULE_ENABLE'		=> '<strong>Module ingeschakeld</strong>',
-	'LOG_MODULE_MOVE_DOWN'	=> '<strong>Module omlaag verplaatst</strong><br />» %s',
-	'LOG_MODULE_MOVE_UP'	=> '<strong>Module omhoog verplaatst</strong><br />» %s',
+	'LOG_MODULE_DISABLE'	=> '<strong>Module uitgeschakeld</strong><br />» %s',
+	'LOG_MODULE_ENABLE'		=> '<strong>Module ingeschakeld</strong><br />» %s',
+	'LOG_MODULE_MOVE_DOWN'	=> '<strong>Module omlaag verplaatst</strong><br />» %1$s onder %2$s ',
+	'LOG_MODULE_MOVE_UP'	=> '<strong>Module omhoog verplaatst</strong><br />» %1$s boven %2$s ',
 	'LOG_MODULE_REMOVED'	=> '<strong>Module verwijderd</strong><br />» %s',
 	'LOG_MODULE_ADD'		=> '<strong>Module toegevoegd</strong><br />» %s',
 	'LOG_MODULE_EDIT'		=> '<strong>Module gewijzigd</strong><br />» %s',

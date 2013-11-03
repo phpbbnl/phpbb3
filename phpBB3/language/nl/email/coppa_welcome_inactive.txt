@@ -40,4 +40,3 @@ Jouw wachtwoord is veilig opgeslagen in onze database en kan niet worden opgevra
 Bedankt voor je registratie.
 
 {EMAIL_SIG}
-

@@ -180,6 +180,8 @@ $lang = array_merge($lang, array(
 
 	'QUOTE_DEPTH_EXCEEDED'		=> 'Je mag maximaal %1$d citaten in een andere citaat hebben.',
 
+	'REMOTE_UPLOAD_TIMEOUT'		=> 'Het opgegeven bestand kon niet worden geüpload omdat de tijdsduur voor het uploaden is verstreken.',
+	
 	'SAVE'						=> 'Opslaan',
 	'SAVE_DATE'					=> 'Opgeslagen op',
 	'SAVE_DRAFT'				=> 'Concept bewaren',
@@ -221,7 +223,7 @@ $lang = array_merge($lang, array(
 	'VIEW_MESSAGE'			=> '%sToon het geplaatste bericht%s',
 	'VIEW_PRIVATE_MESSAGE'	=> '%sBekijk je verstuurde privébericht%s',
 
-	'WRONG_FILESIZE'	=> 'Het bestand is te groot. De maximaal toegestane grootte is %1d %2s.',
+	'WRONG_FILESIZE'	=> 'Het bestand is te groot. De maximaal toegestane grootte is %1$d %2$s.',
 	'WRONG_SIZE'		=> 'De afbeelding moet minimaal %1$d pixels breed en %2$d pixels hoog zijn en maximaal %3$d pixels breed en %4$d pixels hoog. De opgegeven afbeelding is %5$d pixels breed en %6$d pixels hoog.',
 ));
 

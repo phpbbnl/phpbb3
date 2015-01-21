@@ -139,6 +139,7 @@ $lang = array_merge($lang, array(
 	),
 	'USER_ONLINE'			=> 'Online',
 	'USER_PRESENCE'			=> 'Forum voorkomen',
+	'USERS_PER_PAGE'		=> 'Gebruikers per pagina',
 
 	'VIEWING_PROFILE'		=> 'Bekijk profiel - %s',
 	'VISITED'				=> 'Laatst bezocht',

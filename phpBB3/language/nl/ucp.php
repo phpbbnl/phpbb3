@@ -266,7 +266,7 @@ $lang = array_merge($lang, array(
 	'MOVE_DELETED_MESSAGES_TO'		=> 'Verplaats de berichten van de verwijderde map naar',
 	'MOVE_DOWN'						=> 'Verplaats naar onderen',
 	'MOVE_MARKED_TO_FOLDER'			=> 'Verplaats gemarkeerde(n) naar %s',
-	'MOVE_PM_ERROR'					=> 'Er is een fout opgetreden tijdens het verplaatsen van de berichten, maar %1d van de %2d berichten zijn verplaatst.',
+	'MOVE_PM_ERROR'					=> 'Er is een fout opgetreden tijdens het verplaatsen van de berichten, maar %1$d van de %2$d berichten zijn verplaatst.',
 	'MOVE_TO_FOLDER'				=> 'Verplaats naar map',
 	'MOVE_UP'						=> 'Verplaats naar boven',
 

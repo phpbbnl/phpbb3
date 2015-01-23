@@ -657,7 +657,7 @@ $lang = array_merge($lang, array(
 	'TOTAL_USERS_ZERO'	=> 'Totaal aantal leden <strong>0</strong>',
 	'TRACKED_PHP_ERROR'	=> 'Getraceerde PHP-fouten: %s',
 
-	'UNABLE_GET_IMAGE_SIZE'	=> 'De afmetingen van de avatar konden niet worden vastgesteld. Controleer of de opgegeven link correct is.',
+	'UNABLE_GET_IMAGE_SIZE'	=> 'De afmetingen van de afbeelding konden niet worden vastgesteld. Controleer of de opgegeven link correct is.',
 	'UNABLE_TO_DELIVER_FILE'=> 'Het bestand kan niet worden afgeleverd.',
 	'UNKNOWN_BROWSER'		=> 'Onbekende browser',
 	'UNMARK_ALL'			=> 'Deselecteer alles',
